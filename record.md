@@ -1,6 +1,6 @@
-##知识&问题记录
+## 知识&问题记录
 
-###Git命令
+### Git命令
 
 ```bash
 查看状态：git status
@@ -27,9 +27,9 @@
 ```
 
 
-###布局
+### 布局
 
-####垂直水平居中-position法
+#### 垂直水平居中-position法
 
 ```bash
 position: absolute;
