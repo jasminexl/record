@@ -37,3 +37,40 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 ```
+
+
+## JavaScript
+
+### Math对象
+
+```bash
+返回 0 ~ 1 之间的随机数：Math.random()
+把数四舍五入为最接近的整数：Math.round(x)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
